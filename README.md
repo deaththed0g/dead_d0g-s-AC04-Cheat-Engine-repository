@@ -1,8 +1,8 @@
-# dead_d0g-s-AC04-Cheat-Engine-repository
+# dead_d0g's AC04 Cheat Engine repository
 
-Welcome! In this reositroy I'll be uploading the tables I've created with Cheat Engine (CE) for Ace Combat 04: Shattered Skies.
+Welcome! In this repository I'll be uploading the tables I've created with Cheat Engine (CE) for Ace Combat 04: Shattered Skies.
 
-These tables contains scripts and a compilation of relevant memory addresses that are product of my own research and have helped me to understand how the game works by printing information aswell allow me to modify them and find anything useful for modding purposes.
+These tables contains scripts and a compilation of relevant memory addresses that are product of my own research and have helped me to understand how the game works by printing information as well allow me to modify them and find anything useful for modding purposes.
 
 While these scripts are primarily used for research they can also be used for cheating. Stuff like giving the player infinite ammo, health, time, etc. can be also achieved with said scripts.
 
