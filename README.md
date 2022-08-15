@@ -15,7 +15,7 @@ While these scripts are primarily used for research they can also be used for ch
 - An ISO file of Ace Combat 04: Shattered Skies **[See NOTES]**.
 
   At the moment the current supported versions are:
-  - **[SLPM_601.49]: Ace Combat 04: Shattered Skies -TRIAL VERSION-**
+  - **[SLPM_60149]: Ace Combat 04: Shattered Skies -TRIAL VERSION-**
 
 #### Notes:
 
