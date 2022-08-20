@@ -17,6 +17,10 @@ While these scripts are primarily used for research they can also be used for ch
   At the moment the current supported versions are:
   - **[SLPM_60149]: Ace Combat 04: Shattered Skies -TRIAL VERSION-**
 
+#### Usage:
+
+[Check the wiki section.](https://github.com/deaththed0g/dead_d0g-s-AC04-Cheat-Engine-repository/wiki)
+
 #### Notes:
 
 - At the time of setting up this repository **these tables will not work with the newest releases of PCSX2.** This is due to me still being on Windows 7 and being unable to migrate to Windows 10 due to lack of time. The PCSX2 dev team has also dropped support for W7 so I can't test these table on the latest releases of the emulator. So this is why I'm asking you to download and use the last stable release.
