@@ -19,7 +19,7 @@ While these scripts are primarily used for research they can also be used for ch
 
 #### Notes:
 
-- At the time of setting up this repository **these tables will not work with the newest releases of PCSX2.** This is due to me still being on Windows 7 and being unable to migrate to Windows 10 due to lack of time. The PCSX2 dev team has also dropped support for W7 so I can't test these table on the latest releases of the emulator. So this is why I'm ask you to download and use the last stable release.
-  - To check if you are using a compatible version of PCSX2 when you attach this table to the emulator the entries in it will change to numeric values from"??????????". If this is not the case then the table is not compatible with the version  of PCSX2 you are using.
+- At the time of setting up this repository **these tables will not work with the newest releases of PCSX2.** This is due to me still being on Windows 7 and being unable to migrate to Windows 10 due to lack of time. The PCSX2 dev team has also dropped support for W7 so I can't test these table on the latest releases of the emulator. So this is why I'm asking you to download and use the last stable release.
+  - To check if you are using a compatible version of PCSX2 when you attach this table to the emulator the entries in it will change to numeric values from "??". **If this is not the case then the table is not compatible with the version  of PCSX2 you are using.**
  
  - At the moment these tables will only support the trial/demo version of AC04, but support for the vanilla version of the game will be added in the future.
