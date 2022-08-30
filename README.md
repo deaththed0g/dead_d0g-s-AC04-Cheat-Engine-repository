@@ -6,6 +6,10 @@ These tables contains scripts and a compilation of relevant memory addresses tha
 
 While these scripts are primarily used for research they can also be used for cheating. Stuff like giving the player infinite ammo, health, time, etc. can be also achieved with said scripts.
 
+#### Download link:
+
+On the right side of this page click on the link under **Releases.**
+
 #### Required files and tools:
 
 - Cheat Engine 7.0 or latest installed in your computer. You can download the program from its [official website](https://www.cheatengine.org/).
