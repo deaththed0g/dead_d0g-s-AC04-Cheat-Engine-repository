@@ -31,3 +31,9 @@ On the right side of this page click on the link under **Releases.**
   - To check if you are using a compatible version of PCSX2 when you attach this table to the emulator the entries in it will change to numeric values from "??". **If this is not the case then the table is not compatible with the version  of PCSX2 you are using.**
  
  - At the moment these tables will only support the trial/demo version of AC04, but support for the vanilla version of the game will be added in the future.
+
+#### Special thanks:
+
+- **BelkanLoyalist** ([Twitter](https://twitter.com/BelkanLoyalist)/[ModDB](https://www.moddb.com/members/justauser1)) for testing the tables and wiki wording suggestions.
+
+- **cK** ([Twitter](https://twitter.com/Comebackkid2136)/[ModDB](https://www.moddb.com/members/comebackking41)) for releasing the AC04 Trial ISO file.
